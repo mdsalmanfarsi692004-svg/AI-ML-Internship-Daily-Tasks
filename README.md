@@ -20,4 +20,4 @@ Over the course of 15 tasks, I gained hands-on experience in various domains of 
 
 ---
 **💡 Note for Recruiters & Visitors:** 
-This repository is specifically an archive of my daily learning and practice tasks. For my final, **Enterprise-Grade Internship Projects**, please visit my main repository here: [Elevate-Labs-AIML-Internship-Project-Submission](Link_to_your_main_repo)
+This repository is specifically an archive of my daily learning and practice tasks. For my final, **Enterprise-Grade Internship Projects**, please visit my main repository here: [Elevate-Labs-AIML-Internship-Project-Submission](https://github.com/mdsalmanfarsi692004-svg/Elevate-Labs-AIML-Internship-Project-Submission)
